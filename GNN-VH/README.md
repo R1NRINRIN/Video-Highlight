@@ -1,7 +1,3 @@
-## REFERENCE
-https://github.com/GNN-VH/GNN-VH
-## 
-
 ### **Find Objects and Focus on Highlights:  Mining Object Semantics for Video Highlight Detection via Graph Neural Networks**
 
 #### Requirements
